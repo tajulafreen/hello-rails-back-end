@@ -152,7 +152,7 @@ it will run the the server on ```localhost:3000```
 
 ## 👥 Author <a name="author"></a>
 
-👤 **kit0-0**
+👤 **tajulafreen**
 
 - GitHub: [@tajulafreen](https://github.com/tajulafreen)
 - Linkedin: [@tajulafreen](https://www.linkedin.com/tajul-afreen)
