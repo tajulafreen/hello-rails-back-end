@@ -155,7 +155,7 @@ it will run the the server on ```localhost:3000```
 👤 **tajulafreen**
 
 - GitHub: [@tajulafreen](https://github.com/tajulafreen)
-- Linkedin: [@tajulafreen](https://www.linkedin.com/tajul-afreen)
+- Linkedin: [@tajulafreen](https://www.linkedin.com/in/tajul-afreen)
 
 
 
